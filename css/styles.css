@@ -12,3 +12,14 @@
   text-align: center;
   padding-top: 20%;
 }
+
+#middle{
+  background-color: lightgray;
+  padding-top: 5%;
+}
+
+#text{
+  background-color: maroon;
+  text-align: right;
+  color: white;
+}
